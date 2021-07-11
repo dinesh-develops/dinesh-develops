@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dinesh-develops
+- 👀 I’m interested in JAVA,SpringBoot,IOT
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on IOT
